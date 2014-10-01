@@ -19,6 +19,8 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"主分支修改了");
+    
+    NSLog(@"第二次修改了");
 }
 
 - (void)didReceiveMemoryWarning
