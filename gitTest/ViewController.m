@@ -22,7 +22,11 @@
     
     NSLog(@"第二次修改了");
     
+
     NSLog(@"写在主干上得");
+
+    NSLog(@"写在分支中的");
+
 }
 
 - (void)didReceiveMemoryWarning
