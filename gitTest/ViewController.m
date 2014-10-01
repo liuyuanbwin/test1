@@ -21,6 +21,8 @@
     NSLog(@"主分支修改了");
     
     NSLog(@"第二次修改了");
+    
+    NSLog(@"写在主干上得");
 }
 
 - (void)didReceiveMemoryWarning
